@@ -5,7 +5,7 @@ Aplikasi ini berisi menu makanan, detail menu, contact, profile.
 ### Screenshot
 
 <img src="Home.jpeg?raw=true" height=400px/>
-<img src="Lst.jpeg?raw=true" height=400px/>
+<img src="List.jpeg?raw=true" height=400px/>
 <img src="Food.jpeg?raw=true" height=400px/>
 <img src="Profile.jpeg?raw=true" height=400px/>
 
@@ -28,7 +28,7 @@ Ary Budi Warsito, M.Kom
 
 ### Matana University!
 
-<img src="http://matanauniversity.ac.id/website_lama/images/footer/Logo_mu_foot.png" />
+<img src="https://matanauniversity.ac.id/wp-content/uploads/2021/10/Logo-Matana_Vertikal-dan-Horizontal-02-1-800x291-1.png" />
 - Visi 
 Menjadi perguruan tinggi terpercaya, berwawasan global, yang berperan dalam meningkatkan kualitas ilmu pengetahuan, yang merupakan Karunia Tuhan, untuk kesejahteraan umat manusia.
 - Misi 
